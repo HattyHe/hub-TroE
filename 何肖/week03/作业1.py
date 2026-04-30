@@ -9,7 +9,7 @@ import os
 
 """
 N第三周作业作业:设计一个以文本为输入的多分类任务，
-实验一下用RNN，LSTM等模型的跑通训练。
+实验一下用LSTM模型的跑通训练。
 如果不知道怎么设计，可以选择如下任务:对一个任意包含“你”字的不长于32个字的文本，
 “你”在第几位，就属于第几类。
 """
@@ -90,37 +90,14 @@ class TextDataset(Dataset):
 
 
 # 模型定义
-class multiClassRnn(nn.Module):
+class Model(nn.Module):
     """
-    多分类RNN模型，用于文本分类任务
-    输入: (batch_size, seq_len, embed_dim=64)
-    ↓
-    LSTM: (batch_size, seq_len, hidden_dim*2=128)  # 双向拼接
-    ↓
-    Max Pooling: (batch_size, hidden_dim*2=128)    # 序列维度聚合
-    ↓
-    Linear: (batch_size, 32)                       # 映射到32个类别
+    多分类LSTM模型，用于文本分类任务
     """
-
+  
     def __init__(self, vocab_size, embed_dim=EMBED_DIM, hidden_dim=HIDDEN_DIM, dropout=0.3):
         super().__init__()
-        """
-        # 假设词汇表如下：
-        # {'<PAD>': 0, '<UNK>': 1, '你': 2, '好': 3, '世': 4, '界': 5}
-        # vocab_size = 6
-
-        # 创建嵌入层
-        self.embedding = nn.Embedding(vocab_size=6, embed_dim=64, padding_idx=0)
-
-        # 嵌入层内部有一个 6×64 的矩阵
-        # 第0行：'<PAD>' 的向量表示
-        # 第1行：'<UNK>' 的向量表示  
-        # 第2行：'你' 的向量表示
-        # 第3行：'好' 的向量表示
-        # ...
-        """
         # 嵌入层：将词汇表中的索引映射到嵌入向量
-        # 设置嵌入层的参数：词汇表大小、嵌入维度、填充索引
         self.embedding = nn.Embedding(vocab_size, embed_dim, padding_idx=0) #将padding映射到全0向量
         # LSTM层：负责序列建模和特征提取
         self.lstm = nn.LSTM(embed_dim, hidden_dim, bias=True, batch_first=True, bidirectional=True)
@@ -189,7 +166,7 @@ def train():
     val_loader = DataLoader(TextDataset(val_data, vocab), batch_size=BATCH_SIZE, shuffle=False) 
 
     # 模型实例化
-    model = multiClassRnn(vocab_size=len(vocab))
+    model = Model(vocab_size=len(vocab))
     
     # 优化器
     optimizer = torch.optim.Adam(model.parameters(), lr=LR)
