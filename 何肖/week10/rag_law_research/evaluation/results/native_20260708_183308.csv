@@ -1,0 +1,4 @@
+﻿id,type,question,answer_len,context_count
+1,simple_fact,民法典规定自然人的民事权利能力始于何时，终于何时？...,34,4
+2,simple_fact,宪法规定我国公民享有哪些政治权利？...,36,4
+3,simple_fact,刑法中规定的完全刑事责任年龄是多少岁？...,49,4

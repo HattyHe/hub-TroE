@@ -1,0 +1,16 @@
+[
+  {
+    "strategy": "semantic",
+    "retrieval_mode": "vector_only",
+    "hit_rate": 0.7,
+    "mrr": 0.7,
+    "n_questions": 10
+  },
+  {
+    "strategy": "semantic",
+    "retrieval_mode": "hybrid",
+    "hit_rate": 0.7,
+    "mrr": 0.7,
+    "n_questions": 10
+  }
+]
