@@ -1,0 +1,10 @@
+# 生成物
+output/
+*.egg-info/
+
+# Python 缓存（根 .gitignore 已覆盖，本地再保险）
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
