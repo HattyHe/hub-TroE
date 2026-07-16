@@ -1,0 +1,662 @@
+[
+  {
+    "chunk_id": "__00000",
+    "content": "ischemic stroke\n\nShuaili Xu et al.\nCorresponding author: Fengyuan Che, che1971@126.com; Chuanjie Wu, wuchuanjie@ccmu.edu.cn;\nXunming Ji, jixm@ccmu.edu.cn; Di Wu, di.wu@xwhosp.org",
+    "stock_code": "",
+    "year": "",
+    "page_num": 1,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00001",
+    "content": "The PDF file includes:\n\nMaterials and Methods\nFigs. S1 to S8\nTables S1 to S3\nReferences (86–91)\nOther Supplementary Material for this manuscript includes the following:\nData files S1 to S4\nMDAR Reproducibility Checklist",
+    "stock_code": "",
+    "year": "",
+    "page_num": 1,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > The PDF file includes:",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00002",
+    "content": "The C57BL/6J mice were purchased from SiPeiFu Experimental Animal Co., Ltd.. Mice were\nhoused under a 12h light/dark cycle at a room temperature of 24°C. Food and water intake were\nnot restricted. Mice were randomly assigned to each group, and all experiments were performed\nunder standard laboratory procedures of randomization and blinding. A total of 8 male adult\nrhesus monkeys (Macaca mulatta), aged 8-12 years old and weighted 7.5-9.8 kg, were involved\nin the non-human primate studies. All monkeys were screened for and were free of tuberculosis,\nShigella, Salmonella, helminths, ectoparasites, Entamoeba histolytica, and herpes B virus.\nMonkeys were housed separately in stainless steel cages and fed with commercially prepared\nmonkey food. Water supply was not restricted. All animal studies were approved by the\nInstitutional Animal Care and Use Committee of Capital Medical University (No. XW-\n2022060-1 for mice and No. AEEI-2020-038 for rhesus monkeys). All experimental procedures\nwere performed under the National Institutes of Health guidelines for the Care and Use of\nLaboratory Animals.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 2,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Animals",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00003",
+    "content": "Chlorpromazine hydrochloride and promethazine hydrochloride were purchased from\nShanghai Harvest Pharmaceutical CO., LTD. The concentration of the stock solution was 25\nmg/mL. Before administration in mice, the drugs were diluted at a ratio of 1:1 with saline to a\nconcentration of 2.5 mg/mL. Mice were injected with C+P at a dose of 11.2 mg/kg through\nintraperitoneal injection as previously described (30). Body surface area (BSA) of different\nspecies was calculated using the Meeh-Rubner formula (48),\n𝐵𝐵𝐵𝐵𝐵𝐵= 𝑘𝑘𝑀𝑀2/3\nk is a constant that varies across species, and M refers to body mass. Human BSA was calculated\nusing Stevenson formula (55),\n𝐵𝐵𝐵𝐵𝐵𝐵= 0.0061 × 𝐻𝐻+ 0.0128 × 𝑀𝑀−0.1529\nH refers to height and M refers to body mass. The equivalent dose was converted using\nfollowing formula,\n𝐷𝐷𝑏𝑏= 𝐷𝐷𝑎𝑎× 𝑀𝑀𝑎𝑎\n𝐵𝐵𝐵𝐵𝐵𝐵𝑎𝑎\n× 𝐵𝐵𝐵𝐵𝐵𝐵𝑏𝑏\n𝑀𝑀𝑏𝑏\nAfter conversion, the equivalent dose that should be used in rhesus monkeys was 2 mg/kg.\nSpecifically, 25 mg/mL C+P was diluted in 50 mL saline. Our primary concern was to explore\nwhether C+P treatment through i.v. route was safe. Thus, C+P was given to the monkeys",
+    "stock_code": "",
+    "year": "",
+    "page_num": 2,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Drug dose conversion and administration",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00004",
+    "content": "intravenously within 1 hour under general anesthesia. 6 mg/kg Phenylephrine was injected\nintraperitoneally 5 min after C+P treatment. For mice receiving 5’-AMP, 150 mg/kg 5’-AMP\nwas injected i.p. .",
+    "stock_code": "",
+    "year": "",
+    "page_num": 3,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Drug dose conversion and administration",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00005",
+    "content": "Temperature monitoring\n\nCore temperature was recorded with a Thermalert Model TH-8 Temperature Monitor\n(Physitemp Instruments INC., U.S.A) by placing a probe in the rectum of mice and rhesus\nmonkeys. Surface temperature was recorded using an infrared thermal camera (UNI-T\nTechnology Co. Ltd., China). Temperature was calculated automatically by software supplied",
+    "stock_code": "",
+    "year": "",
+    "page_num": 3,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Temperature monitoring",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00006",
+    "content": "Respiratory flow recording\n\nRespiratory flow was recorded using an OxyletPro metabolic chamber (Panlab, Harvard\nApparatus, Spain). In brief, mice were housed in a chamber which had airflow of approximately\n400 ml/min. This chamber could automatically record oxygen consumption and CO2 production\nfor 24h after drug or saline injection. Food and water supply was not limited. For mice\nunderwent middle cerebral artery occlusion (MCAO), they were housed in the chamber for 1\nhour to record baseline respiratory flow. Energy expenditure and respiratory quotient were\ncalculated automatically by Metabolism Software v3.0 based on oxygen consumption and CO2\nproduction.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 3,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Respiratory flow recording",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00007",
+    "content": "Middle cerebral artery occlusion in mice\n\nTransient focal cerebral ischemia was induced by right middle cerebral artery occlusion. Mice\n(21-23g) were anesthetized with isoflurane. After making an incision in the midline, the right\ncommon carotid artery (CCA), internal carotid artery (ICA), and external carotid artery (ECA)\nwere exposed. ECA was gently separated and ligated. An incision was made near the proximal\nend of the separated ECA. A suture (RWD, China) was inserted into the ECA and advanced to\nthe CCA. The suture was then flipped into the ICA and advanced to the MCA. Transient MCAO\nwas maintained for 80 min, followed by removal of the suture. Further assessments were\nperformed 24 h after the surgery. C+P or saline was given immediately after occlusion.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 3,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Middle cerebral artery occlusion in mice",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00008",
+    "content": "Mouse infarct volume assessment\n\nInfarct volume was assessed using 2,3,5-Triphenyltetrazolium chloride (TTC) staining. 2%\nTTC was dissolved in 0.2 M PB solution. After euthanasia, the mouse brain was removed and\ncut into 6 slices. Brain slices were immersed in TTC solution and incubated at 37 °C for 10 min.\nInfarct volume was calculated as (contralateral hemisphere - ipsilateral tissue with\nstaining)/contralateral hemisphere to avoid the influence of brain edema.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 3,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Mouse infarct volume assessment",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00009",
+    "content": "Infusion of [U-13C6]-glucose\n\nPolyethylene catheters (PE-10) were placed into the right jugular vein under isoflurane\nanesthesia. PE-10 catheters were filled with saline and sealed with a firelighter to avoid air\nbubbles. After the surgery, mice recovered consciousness. After 4h fast, mice were infused with\n[U-13C6]-glucose (Cambridge Isotope Laboratories, USA) through the catheter in a conscious\nstate. A bolus of 0.3 mg/g (in 0.3 mL of saline) was infused over 1 min, followed by a rate of\n6.9 mg/kg/min (in 0.45 mL of saline) at 150 μL/h for 180 min for each mouse. Mice were\neuthanized immediately after infusion, and mouse tissues (brain, BAT) were dissected in one\nminute. Tissues were frozen in liquid nitrogen and stored in a -80 °C refrigerator.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 3,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Infusion of [U-13C6]-glucose",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00010",
+    "content": "15 mg tissue was transferred to a 2 mL microcentrifuge tube containing several steel beads. 200\nμL 80% methanol pre-chilled at -80 °C was added, followed by 5 μL of 0.75 mg/mL myristic\nacid-d27. The sample was grinded and homogenized at 4 °C. After homogenization, an\nadditional 800 μL of pre-cooled 80% methanol was added, and the mixture was briefly vortexed.\nThe tube was then subjected to ultrasonication at 4 °C for 1 minute. The sample was then\nquenched at -80 °C for 20 minutes. Thereafter, a second ultrasonication step was performed at\n4 °C for 3 minutes to maximize solubilization. Cellular debris was pelleted by centrifugation at\n13,000 rpm (4 °C) for 20 minutes, after which the entire supernatant was carefully transferred\nto a new 2 mL tube. The supernatant was dried completely using a centrifugal vacuum\nconcentrator to remove residual solvents. The dried metabolites were dissolved in 45 μL of\nmethoxyamine hydrochloride solution (20 mg/mL in pyridine) (Sigma, USA) and incubated at\n37 °C in a metal bath for 90 minutes. Subsequently, 70 μL of MTBSTFA containing 1% t-\nBDMCS9(Sigma, USA) was added, and the reaction mixture was incubated again at 37 °C for\n90 minutes. To remove insoluble particles, the derivatized sample was centrifuged at 10,000\nrpm (10 °C) for 10 minutes. Finally, the supernatant was transferred to a glass GC vial fitted\nwith a 250 μL glass insert and analyzed immediately by gas chromatography-mass spectrometry\n(GC-MS). GC-MS was performed using Agilent 8890 GC/Pegasus BT TOFMS (Leco, USA).",
+    "stock_code": "",
+    "year": "",
+    "page_num": 4,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Metabolic flux analysis",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00011",
+    "content": "Plasma metabolites detection\n\nPlasma samples from rhesus monkeys were collected after general anesthesia to establish\nbaseline data. A second plasma collection was performed 1.5 hours after drug administration.\nFor patients, plasma collection was carried out at 24 ± 12 hours post-surgery. Metabolite\nconcentrations were measured using following kits: lactate (S0227S, Beyotime, China),\npyruvate (S0299S, Beyotime, China), free fatty acid (S0215S, Beyotime, China), and β-\nhydroxybutyrate (E-BC-K785-M, Elabscience, China). Detailed instructions were provided by\nthe manufacturers.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 4,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Plasma metabolites detection",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00012",
+    "content": "Rhesus monkey ischemia/reperfusion model\n\nThe rhesus monkey ischemia/reperfusion model used in this study was previously described by",
+    "stock_code": "",
+    "year": "",
+    "page_num": 4,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Rhesus monkey ischemia/reperfusion model",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00013",
+    "content": "us (53, 86). In brief, ischemia was reached using autologous thrombus to occlude the M2\nsegment of the right middle cerebral artery. Monkeys were fasted for 12h before the surgery.\nGeneral anesthesia was induced with Ketamine (10 mg/kg, i.m.) and maintained intravenously\nwith propofol (300 μg kg-1 min-1). A single thrombus (10 cm) was injected at the branching site\nof the right M2 segment of MCA through a microcatheter under the guidance of DSA, and the\nmicrocatheter was placed at the proximal part of the MCA. Artery occlusion was confirmed\nwith DSA. After 2h occlusion, t-PA was infused locally through the micro catheter at a dose of\n1.1 mg/kg. The effect of thrombolysis was also confirmed with DSA. During the surgery, C+P\nor saline was infused intravenously immediately after the artery occlusion.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 5,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Rhesus monkey ischemia/reperfusion model",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00014",
+    "content": "Infarct volume was investigated using MRI in this study, as we previously described (87). MRI\nscanning was performed on a Magnetom Trio MRI Scanner (3.0 T; Siemens Medical Solutions,\nGermany). T2 and DWI sequences were used to calculate infarct volumes. MRI scanning was\nperformed at 4h after ischemia and at 1d and 30d. Infarct volumes were calculated using the\nITK-Snap contouring software with average diffusion images stacked to reconstruct the infarct\nin three dimensions. Two independent and blinded observers analyzed the MRI images. Mouse\n1H magnetic resonance spectroscopy (MRS) was obtained by using a 7T MRI scanner (BioSpec\n70/30 USR, Bruker, Germany). Mice were anesthetized with isoflurane. Firstly, a T2-weighted\nsequence was scanned as a localizer. Then, single voxel MRS was obtained using 1H-PRESS\nsequence, TE/TR= 16.5/2500 msecs in combination with VAPOR water suppression. The voxel\nsize was set as 2*1*2 mm and centered at the striatum. Postprocessing was performed on\nTopspin (Bruker). The relative content of lactate was obtained by integrating its peak and\nnormalizing it to the peak area of total creatine. Rhesus monkey 1H MRS was obtained by using a\n3T MRI scanner (SIGNA, General Electric Company, U.S.A). Rhesus monkeys were\nanesthetized with isoflurane. The single voxel MRS was scanned with TE/TR=35/1500 msecs.\nThe voxel volume was set at 1*1*1 cm. Postprocessing and quantification was performed on\nMATLAB-based Osprey (88). Osprey could automatically split and quantify peaks of different\nmetabolites.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 5,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Magnetic resonance Scanning",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00015",
+    "content": "Neurological assessments\n\nNeurological functions were investigated at 1d, 3d, and 7d after surgery using NHPSS, which\nranges from 0 (normal) to 41 (severe neurological impairment) (89). Total time required for\nmonkeys to pick up food and withdraw using the affected limb was recorded at 14d and 30d to\nassess motor function (90).",
+    "stock_code": "",
+    "year": "",
+    "page_num": 5,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Neurological assessments",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00016",
+    "content": "Phase I Trial design and overview\n\nThe CHILL trial was a phase 1, single-center, prospective, double-blinded, randomized, dose-\nescalation trial that aimed to define the optimal dose of C+P for AIS. The trial was conducted\nat Linyi People’s Hospital, Shandong Province, China. The trial was registered with\nClinicalTrials.gov (NCT06663631). This trial was approved by the institutional review board\nat Linyi People’s Hospital. A committee composed of independent researchers, physicians, and\nstatisticians supervised the design and implementation of the trial.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 5,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Phase I Trial design and overview",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00017",
+    "content": "Participants\n\nWe included 32 patients aged between 18 to 80 years old from November 2024 to February",
+    "stock_code": "",
+    "year": "",
+    "page_num": 6,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Participants",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00018",
+    "content": "Scale (NIHSS) score ranging from 6-20; time from last known to be well to randomization\nwithin 24h; pre-stroke Modified Rankin Scale scoring 0-1; with indications of reperfusion\ntherapy (including intravenous thrombolysis and endovascular thrombectomy) and signed\ninformed consent. All patients received computer tomography (CT) after admission. Eligibility\ncriteria based on CT included CT angiography (CTA) confirmed large vessel occlusion of\nanterior circulation; had an Alberta Stroke Program Early Computed Tomography Score\n(ASPECT) score of 6-10; initial infarct volume on CT perfusion (CTP) lesser than 70mL; a\nratio of hypoperfused volume to infarcted volume greater than 1.8; absolute mismatch volume\ngreater than 15 mL according to DEFUSE-3 trial (91).\nPatients were not eligible if they were diagnosed with intracranial hemorrhage (parenchymal\nhemorrhage and subarachnoid hemorrhage), epilepsy, phenothiazine allergy or contraindication;\nIodine contrast medium allergy; baseline blood glucose less than 50mg/dL or greater than\n400mg/dL. Exclusion criteria based on CT included a suspicious aortic dissection, multiple\ninfarcts, intracranial tumor.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 6,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > 2025. Eligibility criteria included ischemic stroke with a National Institutes of Health Stroke",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00019",
+    "content": "Randomization and dose-escalation\n\nParticipants were randomly assigned 6:2 to receive C+P treatment or placebo. We evaluated\nC+P doses ranging from 10 mg to 100 mg in four cohorts (10, 20, 50, and 100 mg, respectively).\nOf note, a dose of 50 mg in humans is approximately equivalent to 2 mg/kg in monkeys. 2\nsentinels were set at the 100mg dose and observed for at least 72h before the remaining\nparticipants were dozed, provided there were no safety or tolerability concerns as assessed by\nthe investigator. Enrollment into the C+P cohorts was sequential. Subsequent cohorts were\ndosed after the dosing regimen in the preceding cohort was recommended to be safe and well\ntolerated based on the safety and laboratory data through at least day 7.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 6,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Randomization and dose-escalation",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00020",
+    "content": "Blinding\n\nDue to the practical challenges of blinding during drug preparation, unblinded nurses or\npharmacists will be responsible for preparing the drugs. These unblinded personnel will not\n\nparticipate in patient screening, follow-up, or evaluation. All other study personnel, including\npatients, surgeons, clinical evaluators, nurses, and imaging physicians, will remain blinded to\nthe patient’s group assignment to ensure the objectivity of outcome assessments.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 6,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Blinding",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00021",
+    "content": "Intervention\n\nAll patients enrolled were eligible for EVT. Some patients were given IVT before EVT\naccording to their indications. All patients received general anesthesia during EVT. C+P of each\ndose was previously diluted into 50 mL saline. 50 mL saline without C+P was given as a placebo.\nC+P was given intravenously after randomization and administered for 12h at a velocity of 4\nmL/h.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 7,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Intervention",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00022",
+    "content": "The primary object of this study is to determine the safety of C+P treatment in Patients with\nAIS receiving reperfusion therapy. The primary safety outcome was set as the incidence and\nseverity of all adverse events (AEs). AEs including: 1. Severe hypothermia with body\ntemperature<32 °C 2. Severe hypotension with systolic blood pressure < 90 mmHg that needs\nadditional support 3. Any form of intracranial hemorrhage 4. Coma 5. Death within 72h 6.\nRespiratory depression defined as a respiration rate <8 bpm/min 7. Extrapyramidal symptoms\ninclude Parkinsonism, dystonia, and dyskinesia. AEs are defined as severe adverse events\n(SAEs) if severity reaches grade 3-5 according to the National Cancer Institute Common\nTerminology Criteria for Adverse Events (NCI-CTCAE) ver. 5.0. Secondary outcomes included\ndeath from any cause within 90 days; favorable outcomes at 90 days (defined as mRS 0-2); and\npenumbra decrease at 72 h. Penumbra was defined as the volume of tissue with time to\nmaximum of residue function (Tmax) exceeding 6 seconds while relative cerebral blood flow\n(compared with normal tissue) is still above 30% (91).\nThe clinical assessments were conducted by masked neurologists trained for years. 90 d mRS\nscores were obtained by face-to-face or telephone interviews. Penumbra was calculated\nautomatically using the software BioMind.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 7,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Outcomes",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00023",
+    "content": "Plasma sampling\n\nPatients’ blood was collected using anticoagulant tubes 24±12 h after drug delivery. Blood was\ncentrifuged immediately after collection to prevent hemolysis. The velocity was 3000 r/min for\n10 mins. Dissected plasma was stored in a -80 ℃ refrigerator.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 7,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Plasma sampling",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00024",
+    "content": "Plasma sample pre-treatment\n\nThe plasma samples were processed using the OmniProt Kit (Westlake Omics, China) with the\nfollowing procedure. 15 μL of the plasma sample was transferred into a 1.5 mL Eppendorf tube\nand centrifuged at 4000 rpm for 2 minutes to get the supernatant. Then, 75 μL of Buffer B from\n\nthe OmniProt kit was added. Subsequently, 90 μL of the OmniProt material working solution\nwas added, and the mixture was incubated at 32 °C with 220 rpm on an incubator shaker for 1\nhour. After incubation, the mixture was centrifuged at 17000 rpm for 10 minutes to remove the\nsupernatant. Finally, 0.8 mL of Buffer C from the kit was then added, followed by another\ncentrifugation at 17000 rpm for 10 minutes to remove the supernatant again.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 7,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Plasma sample pre-treatment",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00025",
+    "content": "Metabolite Extraction\n\nTransfer 100 μL of the sample into an EP tube, then add 400 μL of extraction solvent and vortex\nmix for 30 seconds. Sonicate the mixture for 10 minutes in an ice-water bath. Allow the sample\nto stand at -40 °C for 1 hour. Centrifuge the sample at 4 °C, 12000 rpm for 15 minutes. Transfer\nthe supernatant to a sample vial for instrumental analysis. Prepare a Quality Control (QC)\nsample by mixing equal amounts of supernatant from all samples and analyze this QC sample\nalong with the others.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 8,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Metabolite Extraction",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00026",
+    "content": "The protein-bound material was subjected to subsequent reduction, alkylation, and proteolytic\ndigestion. Initially, 50 μL of lysis buffer (containing 6 M urea and 2 M thiourea) was added to\neach tube, followed by incubation at 32 ˚C with 220 rpm for 30 minutes. Subsequently, 4 μL of\n200 mM tris(2-carboxyethyl) phosphine (TCEP) was added to each tube, with further\nincubation at 32 ˚C with 220 rpm for 30 minutes. This was followed by the addition of 4 μL of\n800 mM iodoacetamide (IAA) and incubation under the same conditions for another 30 minutes.\nFor proteolysis, 180 μL of 100 mM TEAB was added to each tube, along with 2 μL of trypsin\n(0.5 μg/μL), and the mixture was incubated at 32 ˚C with 220 rpm for 16 hours. To terminate\nthe digestion, the mixture was centrifuged at 12,000 rpm for 30 seconds, and the supernatant\nwas transferred to a new 1.5 mL Eppendorf tube. Digestion was halted by adding 10%\ntrifluoroacetic acid (TFA) solution, achieving a final TFA concentration of 1%. Confirm that\nthe pH of the samples was between 2 and 3. The SOLAμTM SPE Plate (Thermo Fisher\nScientific, USA) was applied for desalting.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 8,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Protein digestion",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00027",
+    "content": "Liquid chromatography-mass spectrometry (LC-MS) analysis was performed using a Vanquish\nNeo UHPLC system coupled to an Orbitrap Astral mass spectrometer (Thermo Scientific, San\nJose, USA) for data-independent acquisition (DIA) analysis. The mobile phase A consisted of\n98% water with 0.1% formic acid and 2% Acetonitrile. Mobile phase B comprised 20% water\nwith 80% acetonitrile and 0.1% formic acid. All reagents were of MS grade. For the DIA\nacquisition, the peptide concentration was set to 0.1 μg/μL, with an injection volume of 4 μL.\nThe amount of sample loaded for each DIA acquisition was 400 ng. During sample acquisition,\npeptides were loaded onto a pre-column (5 µm, 5 mm*300 µm i.d.) at a pressure of 800 bar,\nthen eluted onto an analytical column (1.9 µm, 120 Å, 150 mm*75 µm i.d.) at a flow rate of",
+    "stock_code": "",
+    "year": "",
+    "page_num": 8,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Proteome sample analysis",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00028",
+    "content": "500 nL/min. An 18-minute effective LC gradient (8% to 40% mobile phase B) was used for\nanalysis.\nThe mass spectrometry scan parameters were configured as follows: FAIMS voltage was set to\n-42 V. The primary scan was conducted over a range of 380 to 980 m/z, with a resolution of\n240,000. The normalized AGC target was set to 500%, and the maximum injection time (max\nIT) was 3 ms. For secondary scans, the m/z range was adjusted to 150-2000, maintaining the\nnormalized AGC target at 500%. The collision energy was calibrated to 25%, with a maximum\ninjection time of 3 ms. The precursor ion mass range for these scans was specified as 380-980\nm/z, with an isolation window of 2 m/z and no overlap between windows. A total of 299\nwindows were utilized for the analysis.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 9,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Proteome sample analysis",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00029",
+    "content": "Mass spectrometry data analysis\n\nThe mass spectrometry data were processed using the DIA-NN software (version 1.9) for\ndatabase searching. Carbamidomethylation of cysteine was set as static modifications, while\noxidation of methionine was set as variable modifications. This comprehensive analysis\nprovided both qualitative and quantitative data, applying a stringent threshold for the false\ndiscovery rate (FDR) of less than 0.01 as the filtering criterion.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 9,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Mass spectrometry data analysis",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00030",
+    "content": "Fig. S1 Assessments of the models in mice. (A)Temperature curve of animals receiving\nsurface cooling (n=4). Surface cooling was achieved by covering the mice with ethanol and\nblowing with a fan. (B) Temperature curve of animals receiving 150 mg/kg of 5’-AMP (n=4).\n(C)Temperature curve of animals receiving surface cooling in the metabolic chamber (n=4).\nSurface cooling was achieved by covering the mice with water and covering the bottom of\nmetabolic chamber with ice packs. (D)Quantification of VO2 in metabolic chamber. Each dot\nrepresents the mean VO₂ of the animals at a specific time point. (Kruskal-Wallis test followed\nby Dunn’s multiple comparisons test, n=5). (E)Quantification of VCO2 in metabolic chamber.\nEach dot represents the mean VCO₂ of the animals at a specific time point. (Kruskal-Wallis test\nfollowed by Dunn’s multiple comparisons test, n=5). (F)Quantification of EE in metabolic\nchamber. Each dot represents the mean EE of the animals at a specific time point. (Kruskal-\nWallis test followed by Dunn’s multiple comparisons test, n=5). (G)Quantification of RQ in\nmetabolic chamber. Each dot represents the mean RQ of the animals at a specific time point.\n(Kruskal-Wallis test followed by Dunn’s multiple comparisons test, n=5).(H) Illustration of\nexperimental paradigm and timeline for MRS scanning in anesthetized animals receiving C+P\ntreatment or saline (n=5). (I) Representative image of cerebral magnetic resonance\nspectroscopy in sham mice. (J)Representative image of cerebral magnetic resonance\nspectroscopy in mice receiving C+P treatment .  The relative content of lactate was obtained by\nintegrating its peak and normalizing it to the peak area of total creatine. (K) Quantification of lactate",
+    "stock_code": "",
+    "year": "",
+    "page_num": 10,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Mass spectrometry data analysis",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00031",
+    "content": "content in mouse brain. The relative content of lactate was obtained by integrating its peak and\nnormalizing it to the peak area of total creatine. (unpaired Student’s t-test, n=5). Data are\nexpressed as mean ± SD. *indicates P<0.05, ***indicates P<0.001, ****indicates P<0.0001. EE,\nenergy expenditure; RQ, respiratory quotient.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 11,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Mass spectrometry data analysis",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00032",
+    "content": "Fig. S2 Confirmation of mouse MCAO model and respiratory parameters after surgery.\n(A) Left, Representative image of laser doppler flowmetry. Right, quantification of CBF before,\nduring, after ischemia(n=10). Ischemic models were considered successful only when relative\nCBF dropped to 30% compared to the contralateral hemisphere. Data are represented as\nindividual values. (B) O2 consumption and CO2 production at baseline and after MCAO model\n(n=4). Data are represented as mean ± SD.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 12,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Mass spectrometry data analysis",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00033",
+    "content": "Fig. S3 Vital signs of monkeys receiving C+P treatment. (A) Mean arterial pressure after\nC+P treatment (two-way ANOVA followed by Sidak multiple comparisons test, n=4).  (B)\nHeart rate after C+P treatment (n=4). (C)Respiratory rate after C+P treatment (n=4).  (D) Core\ntemperature after C+P administration when ambient temperature was set at 31˚C (n=4). Data\nare represented as mean ± SD. *, P<0.05.\n\nFig.S4 Penumbra salvaged and NHISS score. (A) Penumbra salvaged at 72h (ncon=7,\nn10mg=6, n20mg=5, n50mg=6, n100mg=6). Data are represented as mean ± SD. ns depict not\nsignificant. (B) NHISS scores of patients at baseline, 24h and 72h. Data are represented as",
+    "stock_code": "",
+    "year": "",
+    "page_num": 13,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Mass spectrometry data analysis",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00034",
+    "content": "Fig.S5 Proteomic profiling of plasma from patients receiving 10mg, 20mg, and 50mg C+P\ntreatment(A)Volcano plot showing differentially represented proteins in plasma of patients\ntreated with 10mg C+P compared to patients treated with saline. X-axis shows fold change and\ny-axis significance level. Blue dots show significantly downregulated proteins, red dots show\nsignificantly upregulated proteins (≥1.5(or ≤-1.5 fold change, P<0.05).  (B)Volcano plot\nshowing differentially represented proteins in plasma of patients treated with 20mg C+P\ncompared to patients treated with saline. X-axis shows fold change and y-axis significance level.\nBlue dots show significantly downregulated proteins, red dots show significantly upregulated\nproteins (≥1.5(or ≤-1.5 fold change, P<0.05). (C)Volcano plot showing differentially\nrepresented proteins in plasma of patients treated with 50mg C+P compared to patients treated\nwith saline. X-axis shows fold change and y-axis significance level. Blue dots show\nsignificantly downregulated proteins, red dots show significantly upregulated proteins (≥1.5(or\n≤-1.5 fold change, P<0.05). (D)Venn diagram summarizing overlaps of all differentially\nexpressed proteins across groups of different dosages. (E)Venn diagram summarizing the\noverlap of downregulated proteins across groups of different dosages. (F) Gene Ontology\npathway analysis revealing TOP10 enriched pathways in patients’ plasma from the 10mg group\ncompared to the control group. (G)Gene Ontology pathway analysis revealing TOP10 enriched\npathways in patients’ plasma from the 20mg group compared to the control group.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 15,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > individual values.",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00035",
+    "content": "Fig.S6 Expression of proteins associated with aerobic respiration in groups of different\nC+P doses. (A-E) Expression of CS, NDUFB5, NDUFB10, COX6C, and ATP5F1E in different\ngroups (ncontrol=5, n10mg=6, n20mg=5, n50mg=5, n100mg=6).\n\nFig.S7 KEGG pathway analysis of untargeted metabolomics profiling in patients\nreceiving 10/20/50mg C+P compared to saline (A) KEGG pathway analysis exhibiting\npathways significantly mediated by 10mg C+P.  (B) KEGG pathway analysis exhibiting\npathways significantly mediated by 10mg C+P. (C) KEGG\npathway\nanalysis\nexhibiting\npathways significantly mediated by 10mg C+P. * indicates P<0.05, **indicates P<0.01,",
+    "stock_code": "",
+    "year": "",
+    "page_num": 16,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > individual values.",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00036",
+    "content": "***indicates P<0.001.\n\nFig.S8 Plasma metabolites in patients receiving 100mg C+P treatment or saline. (A)Plasma\nLactate/pyruvate ratio after 100mg C+P treatment or saline (Welch’s t-test, ncontrol=5, n100mg=6). (B-\nC) Free fatty acid and β-hydroxybutyrate in patients’ plasma after 100mg C+P treatment or saline\n(Welch’s t-test, ncontrol=5, n100mg=6). Data are represented as mean ± SD. *, P<0.05.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 17,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > ***indicates P<0.001.",
+    "block_types": [
+      "title",
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00037",
+    "content": "Con (n = 7)\n10mg(n=6)\nP-\nvalue‡\n20mg(n=6)\nP-\nvalue‡\n50mg(n=6)\nP-\nvalue‡\n100mg(n=6)\nP-\nvalue‡\nP-\nvalue†\n1h\n75.71±8.18\n71.00±9.84\n0.8717 70.50±10.03 0.8286 66.83±11.55 0.4453 77.50±15.72 0.9957 0.4820\n6h\n83.86±18.77 84.00±26.11 0.9999\n79.17±5.02\n0.9678 85.67±18.33 0.9990\n75.00±7.24\n0.7698 0.8081\n24h 77.43±10.77 78.17±10.52 0.9998 80.67±12.32 0.9437\n76.17±7.39\n0.9982\n73.67±8.21\n0.9085 0.8098\n36h 79.71±11.93 84.83±14.12 0.8193\n77.50±7.58\n0.9888 76.83±10.72 0.9710\n79.00±8.25\n0.9998 0.7297\n48h\n80.14±9.03\n81.67±16.99 0.9985\n75.00±6.08\n0.8829 79.17±16.40 0.9998\n85.00±5.48\n0.9017 0.7366\n60h 80.00±10.47 87.67±23.42 0.7417\n70.67±4.51\n0.5982 74.67±14.61 0.9069 80.33±11.31 0.9999 0.3174\n72h 83.43±11.31\n73.33±9.59\n0.1517\n72.33±7.73\n0.1016\n73.83±8.61\n0.1835\n76.17±4.54\n0.4036 0.1698\n*Heart rate data was missing for one patient in the control group.\n‡P-value for post hoc Dunnett’s t-test.\n†P-value for overall one-way ANOVA test.",
+    "stock_code": "",
+    "year": "",
+    "page_num": 19,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Table S1 Heart rate within 72h after intervention",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00038",
+    "content": "*Respiratory rate data was missing for one patient in the control group.\n‡P-value for post hoc Dunnett’s t-test.\n†P-value for overall one-way ANOVA test.\nTable S2 Respiratory rate within 72h after intervention\nCon (n =\n7) *\n10mg(n=6)\nP-\nvalue‡\n20mg(n=6)\nP-\nvalue‡\n50mg(n=6)\nP-\nvalue‡\n100mg(n=6)\nP-\nvalue‡\nP-\nvalue†\n1h\n15.00±1.95 14.67±0.52 0.9976 17.67±2.94 0.1932 16.50±0.55 0.6637\n14.83±4.26\n0.9998 0.1821\n6h\n18.00±1.92 17.33±3.67 0.9558 17.83±1.47 0.9998 18.17±1.84 0.9998\n17.67±1.21\n0.9965 0.9714\n24h 18.29±0.95 18.50±1.05 0.9845 17.83±1.17 0.8202 18.17±0.98 0.9982\n17.67±0.52\n0.6161 0.5636\n36h 18.86±1.86 19.00±1.55 0.9987 18.83±0.75 0.9999 17.17±0.75 0.0700\n17.33±0.52\n0.1149 0.0266\n48h 18.14±2.27 18.17±1.64 0.9999 18.83±0.98 0.8352 17.83±1.17 0.9887\n18.00±0.89\n0.9992 0.8200\n60h 17.57±0.79 19.33±1.14 0.0100 18.00±0.89 0.8450 18.00±0.89 0.8450\n16.83±1.17\n0.4668 0.0026\n72h 17.43±1.27 18.17±2.39 0.6998 17.33±0.52 0.9998 18.33±0.52 0.5405\n17.33±0.52\n0.9998 0.4827",
+    "stock_code": "",
+    "year": "",
+    "page_num": 20,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Table S1 Heart rate within 72h after intervention",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  },
+  {
+    "chunk_id": "__00039",
+    "content": "Table S3 Detailed Systolic blood pressure of patients.\nControl\nS001\nS007\nS011\nS016\nS018\nS023\nS026\nS032\nBaseline\n1h\n6h\n10h\nMissing Data\n15h\n20h\n24h\n36h\n48h\n60h\n72h\nTable S3 (continued) Detailed Systolic blood pressure.\n10 mg\nS002\nS003\nS004\nS005\nS006\nS008\nBaseline\n1h\n6h\n10h\n15h\n20h\n24h\n36h\n48h\n60h\n72h\nTable S3 (continued) Detailed Systolic blood pressure.\n20 mg\nS009\nS010\nS012\nS013\nS014\nS015\nBaseline\n1h\n6h\n10h\n15h\n20h\n24h\n36h\n48h\n60h\n72h\n\nTable S3 (continued) Detailed Systolic blood pressure.\n50 mg\nS017\nS019\nS020\nS021\nS022\nS024\nBaseline\n1h\n6h\n10h\n15h\n20h\n24h\n36h\n48h\n60h\n72h\nTable S3 (continued) Detailed Systolic blood pressure.\n100 mg\nS025\nS027\nS028\nS029\nS030\nS031\nBaseline\n1h\n6h\n10h\n15h\n20h\n24h\n36h\n48h\n60h\n72h",
+    "stock_code": "",
+    "year": "",
+    "page_num": 21,
+    "section": "Supplementary Materials for > The translational potential of drug-induced hypothermia in acute > ischemic stroke > Table S1 Heart rate within 72h after intervention",
+    "block_types": [
+      "text"
+    ],
+    "is_ocr": false,
+    "strategy": "semantic",
+    "source_file": "scitranslmed.ady7847_sm.json",
+    "parent_content": "",
+    "parent_id": ""
+  }
+]
