@@ -1,0 +1,5 @@
+# LLM（OpenAI 兼容接口，DeepSeek 默认 / DashScope 备选 qwen-plus）
+openai>=1.0.0
+
+# 测试采用纯 Python 脚本 + assert（对齐 week11 惯例，离线可跑），无需 pytest。
+# skill.md front-matter 用极简解析器（key: value），不引入 pyyaml。
