@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets / env
+.env
+.env*
+
+# OS / IDE
+.DS_Store
+.idea/
+
+# Skill 产物
+outputs/
+skills/*/data/
+
+# 本地开发（不提交）
+tests/
+specs/
+.specify/
+.claude/
+.vscode/
