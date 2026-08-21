@@ -1,17 +1,41 @@
-# 环境变量
-.env
-.env.local
-
-# IDE
-.vscode/
-.idea/
-*.swp
-
-# model
-model.bin
-*.pt
-*.pyc
-__pycache__/
-.conda/
+# ================ macOS 系统文件 ================
 .DS_Store
-outputs/
+*/.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ================ 大模型文件 ================
+*.bin
+*.safetensors
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pb
+*.onnx
+*.tflite
+models/
+**/models/*
+!**/models/.gitkeep
+bge-*/
+m3e-*/
+text2vec-*/
+
+# ================ Python ================
+__pycache__/
+*.py[cod]
+*.pyc
+.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# ================ IDE / 日志 ================
+.idea/
+.vscode/
+*.log
+.cache/
